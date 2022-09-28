@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Input data
+input_data/fof*
+input_data/*numdenim*
+input_data/*_cut*
+*.pdf
+
+
 # C extensions
 *.so
 
